@@ -1,3 +1,3 @@
 # Learning docker
-# create docker container for mongo and mongo-express
-# create docker network
+- create docker container for mongo and mongo-express
+- create docker network
